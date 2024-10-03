@@ -1,0 +1,33 @@
+[
+    {
+        "ism": "Rasulbek",
+        "familiya": "Avliyokulov",
+        "yosh": 18
+    },
+    {
+        "ism": "haoybek",
+        "familiya": "farxodov",
+        "yosh": 15
+    },
+    {
+        "ism": "azamat",
+        "familiya": "abdullayev",
+        "yosh": 17
+    },
+    {
+        "ism": "raxmatullo",
+        "familiya": "xoshimov",
+        "yosh": 16
+    },
+    {
+        "ism":"saidnurmuhammadulloxon",
+        "familiya":"nasimxonov",
+        "yosh":18
+    },
+
+    {
+        "ism":"fayzullo",
+        "familiya":"ummatov",
+        "yosh":23
+    }
+]
